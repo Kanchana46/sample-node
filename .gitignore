@@ -1,0 +1,8 @@
+# dependencies
+/node_modules
+
+# fhfhf
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
